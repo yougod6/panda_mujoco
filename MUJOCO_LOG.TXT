@@ -1,0 +1,36 @@
+Fri Oct 20 20:18:52 2023
+WARNING: mju_openResource: unknown file '/path/to/mjcf.xml'
+
+Fri Oct 20 20:29:33 2023
+WARNING: mju_openResource: unknown file '../mujoco_menagerie/unitree_a1/a1.xml'
+
+Fri Oct 20 20:29:48 2023
+WARNING: mju_openResource: unknown file '/mujoco_menagerie/unitree_a1/a1.xml'
+
+Fri Oct 20 21:24:49 2023
+WARNING: mju_openResource: unknown file 'mujoco_menagerie/anibotics_anymal_b/scene.xml'
+
+Fri Oct 20 21:34:25 2023
+WARNING: mju_openResource: unknown file 'mujoco_menagerie/shadow_hand/scene.xml'
+
+Fri Oct 20 21:39:15 2023
+WARNING: mju_openResource: unknown file 'mujoco_menagerie/franka_emika_panda/scene_left.xml'
+
+Sat Oct 21 00:26:36 2023
+ERROR: mjv_updateCamera: fixed camera id is outside valid range
+
+Sat Oct 21 00:27:00 2023
+ERROR: mjv_updateCamera: fixed camera id is outside valid range
+
+Sat Oct 21 00:27:15 2023
+ERROR: mjv_updateCamera: fixed camera id is outside valid range
+
+Sat Oct 21 00:30:04 2023
+ERROR: mjv_updateCamera: fixed camera id is outside valid range
+
+Sat Oct 21 00:34:12 2023
+ERROR: mjv_updateCamera: fixed camera id is outside valid range
+
+Sat Oct 21 00:40:04 2023
+ERROR: mjv_updateCamera: fixed camera id is outside valid range
+
